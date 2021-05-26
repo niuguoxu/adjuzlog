@@ -1,4 +1,4 @@
-module git.asm100.com/asm_zs/adjuzLog
+module github.com/niuguoxu/adjuzlog
 
 go 1.13
 
